@@ -1,2 +1,3 @@
 # hello-world
-It is my short description
+It is my short description.
+Hello, I am Vladimir.
